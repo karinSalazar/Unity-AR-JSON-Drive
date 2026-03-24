@@ -1,2 +1,2 @@
 # Unity-AR-JSON-Drive
-Sistema de Realidad Aumentada dinámico en Unity. Utiliza un núcleo en C++ para procesar imágenes cargadas desde Google Drive (vía JSON) y permite capturar y compartir la experiencia en redes sociales.
+Este proyecto implementa una solución de AR de alto rendimiento que separa el contenido de la aplicación: las imágenes se sincronizan dinámicamente mediante un archivo JSON alojado en la nube. Gracias a la integración nativa con C++, el procesamiento es fluido, permitiendo a los usuarios interactuar con proyecciones actualizables y compartirlas instantáneamente en plataformas sociales.
